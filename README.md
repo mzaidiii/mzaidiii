@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @mzaidiii
+- 👋 Hi, I’m mohd murtaza zaidi
+-     I'm currently pursuing my bachelors in b-tech from ABES Group OF Institute GHAZIABAD
 - 👀 I’m interested in coding and making different app 
 - 🌱 I’m currently learning ...flutter,dart,python,DSA with c  and have a knowledge of web devlopment
 - 💞️ I’m looking to collaborate on ...
